@@ -1,0 +1,6 @@
+[
+    {"name": "Computer", "description": "A nice laptop computer", "price": 499.97, "discount":50.00, "picture":"computer.jpeg"},
+    {"name": "Mouse", "description": "A beautiful mouse that does not bite", "price": 10.23, "picture":"mouse.jpg"},
+    {"name": "Keyboard", "description": "A convenient QWERTY keyboard with mechanical switches", "price": 57.99, "picture":"keyboard.jpeg"},
+    {"name": "Fish", "description": "One kilogram of fresh codfish (not to be eaten after April 1st)", "price": 57.99, "picture":"fish.jpeg"}
+]
